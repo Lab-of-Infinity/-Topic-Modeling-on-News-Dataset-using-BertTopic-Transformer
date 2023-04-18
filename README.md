@@ -30,5 +30,5 @@ On this News Dataset I have performed following visualzation to get more insight
  6. Term Score Decline Per Topic
  ```
  
-***Note : As Visualation are Interactive in Nature , You can open Notebook Google Colab via click on `Open in Colab` in Notebook file and Check Visualization.***
+***Note : As Visualation are Interactive in Nature they are not getting render properly in Github. To check Visualizaton you will need to open Notebook in Google colab. You can open Notebook Google Colab via click on `Open in Colab` in Notebook file and Check Visualization.***
  
